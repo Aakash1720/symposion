@@ -20,7 +20,7 @@ Symposion
     :target:  https://pypi.python.org/pypi/symposion/
 
 
-Pinax
+The Pinax
 ------
 
 Pinax is an open-source platform built on the Django Web Framework. It is an ecosystem of reusable Django apps, themes, and starter project templates. 
